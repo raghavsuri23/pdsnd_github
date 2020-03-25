@@ -2,10 +2,11 @@
 25th March 2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+The project provides insight into the bike share use in Chicago, New York City, and Washington by computing a
+variety of descriptive statistics
 
 ### Files used
 Include the files used
