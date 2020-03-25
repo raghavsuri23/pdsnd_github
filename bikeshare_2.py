@@ -1,8 +1,8 @@
 import time
 import datetime
 import calendar
-import pandas as pd
-import numpy as np
+import pandas as pd #Importing Pandas Module
+import numpy as np #Importing Numpy Module
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
