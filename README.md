@@ -15,4 +15,6 @@ washington.csv
 
 ### Credits
 https://classroom.udacity.com/nanodegrees/nd104-ent/dashboard/overview
+https://pandas.pydata.org/pandas-docs/stable/
+https://docs.scipy.org/doc/numpy-1.13.0/contents.html
 
